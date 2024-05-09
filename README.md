@@ -1,7 +1,7 @@
 
 # Profile
 * 👋🏼👋🏼  **Pleased to meet you! I am Jungi Hong**<br>
-* 💻🤖  **I'm Back-end Engineer**<br>
+* 💻🤖  **I'm Junior Back-end Engineer**<br>
 * 🇰🇷🇰🇷  **I'm from South Korea** <br>
 * **Feel free to look around!**
 
